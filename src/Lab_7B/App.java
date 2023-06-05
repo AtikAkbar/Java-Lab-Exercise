@@ -1,3 +1,5 @@
+package Lab_7B;
+
 public class App {
     public static void main(String[] args) {
         EBook eBook = new EBook("www.ebook.com",2.5);

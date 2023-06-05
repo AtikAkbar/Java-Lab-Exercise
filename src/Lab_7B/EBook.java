@@ -1,3 +1,5 @@
+package Lab_7B;
+
 public class EBook extends Book{
     private String downloadUrl;
     private double sizeMB;

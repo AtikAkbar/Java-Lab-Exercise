@@ -1,3 +1,5 @@
+package Lab_7B;
+
 public class PaperBook extends Book{
     private double shippingWeight;
     private boolean inStock;

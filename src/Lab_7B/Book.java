@@ -1,3 +1,5 @@
+package Lab_7B;
+
 public class Book {
     private int isbn;
     private String title;
